@@ -1,0 +1,9 @@
+{
+    "require": {
+        "box/brainy": "2.1.*",
+        "smarty/smarty": "3.1.*"
+    },
+    "autoload": {
+        "psr-4": {"Box\\Brainy\\": "libs/brainy/src/Brainy/"}
+    }
+}
