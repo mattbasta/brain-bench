@@ -31,3 +31,5 @@ test/compiled
 vendor/
 *.dat
 compiled/
+composer.lock
+profile/
